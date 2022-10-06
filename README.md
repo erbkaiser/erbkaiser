@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @erbkaiser
-- 👀 I'm a gamer who sometimes likes to dabble in code
+- 👀 I sometimes like to dabble in code
 
 <!---
 erbkaiser/erbkaiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
